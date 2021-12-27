@@ -1,2 +1,2 @@
-swear = "fuck you"
+swear = "muthafuck you mutha fucker"
 print(swear)
