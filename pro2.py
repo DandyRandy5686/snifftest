@@ -1,0 +1,4 @@
+newvar = "turd"
+print(newvar)
+
+
