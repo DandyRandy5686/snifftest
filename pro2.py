@@ -1,4 +1,4 @@
-newvar = "turd"
+newvar = "turdsoup"
 print(newvar)
 
 
