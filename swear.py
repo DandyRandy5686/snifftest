@@ -1,2 +1,2 @@
-swear = "shit head"
+swear = "fuck you"
 print(swear)
