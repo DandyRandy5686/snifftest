@@ -1,0 +1,3 @@
+newVar = "tits"
+print(newVar)
+
